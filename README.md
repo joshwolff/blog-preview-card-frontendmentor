@@ -27,7 +27,7 @@ By completing this challenge, I have demonstrated my ability to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Blog Preview Card](https://joshwolff.github.io/blog-preview-card-frontendmentor/)
 
 ## My process
 
